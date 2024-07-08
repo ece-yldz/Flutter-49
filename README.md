@@ -60,6 +60,8 @@ Takım Flutter 49
   !
 - **Sprint Review**:
 - Uygulama adını belirleme konusunda bir süre kararsız kaldık. Sonunda 'Style Revive' adında karar kıldık.
+- Kullanıcı profili oluşturma ve giriş/kayıt fonksiyonları etkin şekilde geliştirildi.
+- Navigasyon için App Bar tasarlandı ve uygulamaya eklendi.
 
 
 - **Sprint Retrospective:**
