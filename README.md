@@ -33,34 +33,39 @@ Takım Flutter 49
 
 ## Product Backlog URL
 
-[Miro Backlog Board]()
+(https://trello.com/invite/b/e6PHptYX/ATTIa77ed1087e6f1962abb4da6bfd3c032f6427AF55/bootcamp-f49)
 
 ---
 
 # Sprint 1
 
-- **Sprint Notları**:
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Sprint içinde tamamlanması tahmin edilen puan**:
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-- **Puan tamamlama mantığı**:
-
-- **Backlog düzeni ve Story seçimleri**:
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 
 
-- **Daily Scrum**: 
-- **Sprint board update**: Sprint board screenshotları: 
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. 
+- **Sprint board update**: Sprint board screenshotları: ![sprint1](https://github.com/ece-yldz/Flutter-49/assets/170043289/9016f2f0-a118-45c7-9046-52a3735ce967)
+
 
 - **Ürün Durumu**: Ekran görüntüleri:
+- *Logo*
+  ![WhatsApp Görsel 2024-06-30 saat 15 48 56_419d1876](https://github.com/ece-yldz/Flutter-49/assets/170043289/438d9f46-8712-4fd4-806e-0abf7b9cc954)
+  ![WhatsApp Görsel 2024-06-28 saat 22 09 17_dd18929e](https://github.com/ece-yldz/Flutter-49/assets/170043289/25acc786-5266-49d5-bd71-f7d12e6b0242)
+
+
   !
-- **Sprint Review**: 
-Alınan kararlar:katılımcıları: ......
+- **Sprint Review**:
+- Uygulama adını belirleme konusunda bir süre kararsız kaldık. Sonunda 'Style Revive' adında karar kıldık ve markalaşma sürecimizi 'style revive.app' alan adını satın alarak bir adım daha ileri taşıdık.
+
 
 - **Sprint Retrospective:**
-  - 
-  - 
-  -
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+
 -**Diğer Notlar**:
 - N/A
 
