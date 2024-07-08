@@ -59,7 +59,7 @@ Takım Flutter 49
 
   !
 - **Sprint Review**:
-- Uygulama adını belirleme konusunda bir süre kararsız kaldık. Sonunda 'Style Revive' adında karar kıldık ve markalaşma sürecimizi 'style revive.app' alan adını satın alarak bir adım daha ileri taşıdık.
+- Uygulama adını belirleme konusunda bir süre kararsız kaldık. Sonunda 'Style Revive' adında karar kıldık.
 
 
 - **Sprint Retrospective:**
