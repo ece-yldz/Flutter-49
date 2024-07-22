@@ -75,6 +75,39 @@ Takım Flutter 49
 
 # Sprint 2
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır.  
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. 
+- **Sprint board update**: Sprint board screenshotları: ![sprint2]([resim](https://github.com/user-attachments/assets/bc14e947-223d-42a7-9d6b-d6977248fcfe)
+)
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+- *Logo*
+  ![WhatsApp Görsel 2024-06-30 saat 15 48 56_419d1876](https://github.com/ece-yldz/Flutter-49/assets/170043289/438d9f46-8712-4fd4-806e-0abf7b9cc954)
+  ![resim](https://github.com/user-attachments/assets/1d526e62-7784-411e-a945-b4db3c916450)
+
+
+
+  !
+- **Sprint Review**:
+- Kullanıcı Girişi/Kaydı: Kullanıcılar artık email ve şifreleri ile giriş yapabilir veya yeni hesap oluşturabilirler. Giriş ve kayıt işlemleri sorunsuz çalışıyor.
+- Profil ve App Bar: Kullanıcıların profilleri şimdi uygulamanın üst çubuğunda görünüyor ve kullanıcılar kendi adlarını ve profil resimlerini görebilirler.
+- Unable to load asset' hatası ile karşılaştık, ancak bu, pubspec.yaml dosyasını güncelleyerek çözüldü.
+
+
+
+- **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+
+-**Diğer Notlar**:
+- N/A
 
 ---
 
