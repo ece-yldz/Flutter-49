@@ -74,6 +74,7 @@ Takım Flutter 49
 ---
 
 # Sprint 2
+- Sprint Notları: Bu sprint için belirlenen User Story'ler arasında kullanıcı profili düzenleme, giysi yükleme işlevleri ve AI tabanlı öneri sistemi bulunmaktadır. Her bir product backlog item'a tıklandığında, hikayelerin detayları, beklenen çıktılar, kabul kriterleri ve teknik gereksinimler okunabilir hale getirilmiştir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
