@@ -83,8 +83,8 @@ Takım Flutter 49
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. 
-- **Sprint board update**: Sprint board screenshotları: ![sprint2]([resim](https://github.com/user-attachments/assets/bc14e947-223d-42a7-9d6b-d6977248fcfe)
-)
+- - **Sprint board update**: Sprint board screenshotları: ![sprint2](https://github.com/user-attachments/assets/4e023ca9-b519-438b-8d39-b694fedbe48b)
+
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
@@ -99,11 +99,14 @@ Takım Flutter 49
 - Kullanıcı Girişi/Kaydı: Kullanıcılar artık email ve şifreleri ile giriş yapabilir veya yeni hesap oluşturabilirler. Giriş ve kayıt işlemleri sorunsuz çalışıyor.
 - Profil ve App Bar: Kullanıcıların profilleri şimdi uygulamanın üst çubuğunda görünüyor ve kullanıcılar kendi adlarını ve profil resimlerini görebilirler.
 - Unable to load asset' hatası ile karşılaştık, ancak bu, pubspec.yaml dosyasını güncelleyerek çözüldü.
-
+- Kullanıcıların giymedikleri giysilerin fotoğraflarını yükleyebilecekleri ve bu giysiler hakkında detaylı bilgi (renk, tür, marka vb.) ekleyebilecekleri bir özellik geliştirildi.
+- Yapay zeka veya uzman danışman sistemi, kullanıcılara yükledikleri giysiler için yaratıcı dönüşüm önerileri sağlamak üzere entegre edildi.
+- Kullanıcıların giysileri için önerilen dönüşümleri görebilecekleri, değerlendirebilecekleri ve seçebilecekleri bir arayüz tasarlandı.
+- Kullanıcı ve giysi bilgilerini saklamak ve yönetmek için veritabanı sistemi kurulacak ve backend entegrasyonları geliştirilecek.
+- Veri şifreleme, güvenli oturum yönetimi ve gizlilik politikaları dahil edilerek kullanıcı verilerinin güvenliği sağlanacak.
 
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 
 -**Diğer Notlar**:
