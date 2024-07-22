@@ -88,9 +88,10 @@ Takım Flutter 49
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+- ![resim](https://github.com/user-attachments/assets/1d526e62-7784-411e-a945-b4db3c916450)
 - *Logo*
   ![WhatsApp Görsel 2024-06-30 saat 15 48 56_419d1876](https://github.com/ece-yldz/Flutter-49/assets/170043289/438d9f46-8712-4fd4-806e-0abf7b9cc954)
-  ![resim](https://github.com/user-attachments/assets/1d526e62-7784-411e-a945-b4db3c916450)
+  
 
 
 
